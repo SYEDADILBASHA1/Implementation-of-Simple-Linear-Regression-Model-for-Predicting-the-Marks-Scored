@@ -66,31 +66,31 @@ print('RMSE=',rmse)
 ```
 
 ## Output:
-## 1.df.head()
+## 1.df.head():
 ![Screenshot (80)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/66639be4-684b-4fe8-836f-5343fdbc5644)
 
-## 2.df.tail()
+## 2.df.tail():
 ![Screenshot (81)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/8c92c05c-5a6a-4057-bf64-b700ef0689a9)
 
-## 3.Array value of X
+## 3.Array value of X:
 ![Screenshot (82)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/1e4b25ac-1a7a-4814-8330-91660dcec5f0)
 
-## 4.Array value of Y
+## 4.Array value of Y:
 ![Screenshot (83)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/37ff425f-7836-482e-8057-b0f547a673db)
 
-## 5.Values of Y prediction
+## 5.Values of Y prediction:
 ![Screenshot (84)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/20ad45a6-cea2-47f7-b8eb-09ad826b79fd)
 
-## 6.Array values of Y test
+## 6.Array values of Y test:
 ![Screenshot (85)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/903624d7-f181-4486-857b-7e6ce2c0adab)
 
-## 7.Training Set Graph
+## 7.Training Set Graph:
 ![Screenshot (86)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/d18a9d87-1b32-4213-8c2c-9361437a962a)
 
-## 8.Test Set Graph
+## 8.Test Set Graph:
 ![Screenshot (87)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/178a0cd7-1a15-4235-857f-5d4f190cc41c)
 
-## 9.Values of MSE,MAE and RMSE
+## 9.Values of MSE,MAE and RMSE:
 ![Screenshot (88)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/aa93d408-cffb-4017-8fe6-838640b08aff)
 ![Screenshot (89)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/2f7a57e0-5ae8-4daa-ac37-5315cbb210af)
 ![Screenshot (90)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/265dfb5b-deea-4160-ba4e-72e122b5b642)

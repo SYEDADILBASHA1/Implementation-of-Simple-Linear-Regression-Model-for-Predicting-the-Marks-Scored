@@ -85,7 +85,7 @@ print('RMSE=',rmse)
 ![Screenshot (85)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/903624d7-f181-4486-857b-7e6ce2c0adab)
 
 ## 7.Training Set Graph
-![Screenshot (86)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/d18a9d87-1b32-4213-8c2c-9361437a962a
+![Screenshot (86)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/d18a9d87-1b32-4213-8c2c-9361437a962a)
 
 ## 8.Test Set Graph
 ![Screenshot (87)](https://github.com/SYEDADILBASHA1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/134796157/178a0cd7-1a15-4235-857f-5d4f190cc41c)
